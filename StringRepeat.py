@@ -8,4 +8,3 @@ def repeat_str(repeat, string):
 
 def shorter_repeat_str(repeat, string):
     return repeat * string
-
